@@ -1,0 +1,73 @@
+body {
+    background-color: #b32496 ;
+  }
+/* Estilo para el encabezado de la página */
+
+  nav.navbar {
+    background-color: #549fe6; 
+  }
+  
+  nav.navbar a.navbar-brand {
+    color: white;
+    font-size: 24px; 
+    font-weight: bold; 
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .card {
+    background-color: #b32496;
+  }
+
+  .card-text {
+    color: white;
+  }
+
+  .imagen-circular {
+    border-radius: 50%;
+  }
+
+  .imagen-circular {
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: aliceblue;
+  }
+  /* Estilo para el botón de publicar */
+  .btn-success {
+    background-color: #9934c4;
+    border-color: #9934c4;
+  }
+  
+  /* Estilo para las tarjetas */
+  .card {
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para los títulos de las tarjetas */
+  .card-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para los botones dentro de las tarjetas */
+  .btn-info {
+    background-color: #b81798;
+    border-color: #17a2b8;
+  }
+/*eliminar   */
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  /* Estilo para el área de publicaciones */
+  #publicaciones {
+    display: flex;
+    flex-wrap: wrap;
+  }
